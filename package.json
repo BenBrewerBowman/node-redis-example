@@ -1,0 +1,14 @@
+{
+  "name": "node-redis-example",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Simple redis tutorial using node.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {}
+}
